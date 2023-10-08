@@ -1,0 +1,62 @@
+body{
+    background-color: black;
+}
+.sfondo{
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 1230px;
+    height: 600px;
+    padding: 15px;
+    margin-top: 130px;
+}
+.contenitore{
+    background-color: rgba(8, 0, 0, 0.466);
+    height: 570px;
+    width: 795px;
+    border-radius: 10px;
+}
+.Logo{
+    padding-top: 8%;
+    text-align: center;
+}
+.intestazione{
+    font-family: cursive;
+    font-size: 23px;
+    color: rgb(9, 252, 9);
+    margin-left: 160px;
+}
+.display{
+    margin-left: 30px;
+}
+ul{
+    color: aliceblue;
+    list-style-type: none;
+}
+.BoxPulsanti{
+    padding: 4px;
+    background-color: rgb(9, 252, 9);
+    height: 20px;
+    width: 640px;
+    text-align: center;
+}    
+button{
+     color: black;
+     font-size: 7px;
+     font-weight: bold;
+     font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.markerList{
+    font-size: x-small;
+}   
+    
+
+    
+    
+   
+
+
+
+
+
+
+    
